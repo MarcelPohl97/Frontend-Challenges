@@ -1,0 +1,4 @@
+-> add to git
+-> build animated login form in modern workflow
+-> setup landing page
+-> add functionality to switch between apps
